@@ -165,8 +165,147 @@
 			</div>
 		</div>
 </section>
-
 <!-- About us Section Ends -->
+
+
+
+<!-- My Resume Section Starts -->
+<section class="my-resume" id="resume">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<!-- Section title start -->
+				<div class="section-title">
+					<h2>Mi resumen</h2>
+				</div>
+				<!-- Section title end -->
+			</div>
+		</div>
+
+		<div class="row mb-5 pb-5">
+			<div class="col-md-6">
+				<div class="experience">
+					<h3 class="sub-title"><i class="fa fa-briefcase"></i> Experiencia</h3>
+
+					<!-- Experience Slider Start -->
+					<div class="swiper-container experience-slider">
+						<div class="swiper-wrapper">
+							<!-- Experience Slide start -->
+							<div class="swiper-slide">
+								<div class="experience-single ">
+									<h5>(Abril 2021 a la fecha)</h5>
+									<h4>B-Pro Innovaciones, S.A DE C.V | Administrador de servidor</h4>
+									<p class="paragraph">
+										Colaboro en proyectos asignados por el equipo de operaciones técnica. Así mismo, en ayudar
+										en el desarrollo de nuevas plataformas con el fin de mejorar los procesos usando las tecnologías
+										de (“Larevel 8”, “Android Studio - Java”, “Servicio de API REST o base de datos MYSQL” ,
+										“Github”).
+									</p>
+								</div>
+							</div>
+							<!-- Experience Slide end -->
+
+							<!-- Experience Slide start -->
+							<div class="swiper-slide">
+								<div class="experience-single ">
+									<h5>(Septiembre 2020 a Marzo 2021)</h5>
+									<h4>Solutec S.A DE C.V | Programador JR</h4>
+									<p class="paragraph">
+										Encargado de desarrollar bolsa de empleo desde cero. Implementado tres niveles de usuarios
+										tales como administrador, candidato y empresa. Por lo tanto, cada uno posee diferentes
+										funcionalidades. El sistema se desarrolló en el lenguaje de programación de PHP utilizando como
+										base de datos MYSQL, así mismo, conceptos base de POO como también “Envíos de correos
+										electrónicos” con phpmailer, la creación de pdf usando dompdf y peticiones con AJAX.
+									</p>
+								</div>
+							</div>
+							<!-- Experience Slide end -->
+
+
+							<!-- Experience Slide start -->
+							<div class="swiper-slide">
+								<div class="experience-single ">
+									<h5>(Octubre 2020 a Marzo 2021)</h5>
+									<h4>Web Maker El Salvador | Emprendedor</h4>
+									<p class="paragraph">
+										Gestioné mi propio negocio para ofrecer mi servicio profesional, tales como creaciones de sitios
+										web, configuración de hostings como lo son Mrobotics, Hostinger y Hostgator. Creación de
+										tiendas online en Wordpress utilizado la pasarela de pago Paypal y Stripe.
+									</p>
+								</div>
+							</div>
+							<!-- Experience Slide end -->
+
+							<!-- Experience Slide start -->
+							<div class="swiper-slide">
+								<div class="experience-single ">
+									<h5>(abril 2018 a  Junio 2018)</h5>
+									<h4>USAID Puentes para el empleo en Fundación Gloria de Kriete | Instructor de matemáticas</h4>
+									<p class="paragraph">
+										Impartición de curso de lógica matemática en Centro Desarrollo Software “CDS”. Orientado a la lógica de programación.
+									</p>
+								</div>
+							</div>
+							<!-- Experience Slide end -->
+						</div>
+
+						<!-- Experience Pagination Start -->
+						<div class="experience-pagination"></div>
+						<!-- Experience Pagination Start -->
+					</div>
+					<!-- Experience Slider Start -->
+				</div>
+			</div>
+
+			<div class="col-md-6">
+				<div class="education">
+					<h3 class="sub-title"><i class="fa fa-graduation-cap"></i> Educación</h3>
+
+					<!-- Education Slider Start -->
+					<div class="swiper-container education-slider">
+						<div class="swiper-wrapper">
+							<div class="swiper-slide">
+								<div class="experience-single">
+									<h5>2018 - 2021</h5>
+									<h4>Universidad Don Bosco</h4>
+									<p>Graduado del Técnico en computación.</p>
+								</div>
+							</div>
+							<!-- Experience Slide end -->
+
+							<!-- Experience Slide start -->
+							<div class="swiper-slide">
+								<div class="experience-single">
+									<h5>2016 - 2017</h5>
+									<h4>Instituto Nacional Prof. Jaime Francisco López</h4>
+									<p>Bachillerato general / Opción Mantenimiento en computadora.</p>
+								</div>
+							</div>
+							<!-- Experience Slide end -->
+
+							<!-- Experience Slide start -->
+							<div class="swiper-slide">
+								<div class="experience-single">
+									<h5>2015 - 2017</h5>
+									<h4>Fundación Gloria de Kriete</h4>
+									<p>Becado en Programa Oportunidades.</p>
+								</div>
+							</div>
+						</div>
+
+						<!-- Education Pagination Start -->
+						<div class="education-pagination"></div>
+						<!-- Education Pagination Start -->
+					</div>
+					<!-- Education Slider End -->
+				</div>
+			</div>
+		</div>
+
+		
+	</div>
+</section>
+<!-- My Resume Section Ends -->
 
 <!-- footer site web -->
 <?php include('template/footer.php'); ?>

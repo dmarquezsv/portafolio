@@ -23,9 +23,9 @@
 				<!-- Navigation Starts -->
 				<ul class="navbar-nav ml-auto" id="main-menu">
 					<li class="nav-item"><a class="nav-link active" href="#home">Inicio</a></li>
-					<li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+					<li class="nav-item"><a class="nav-link" href="#about">Sobre mí</a></li>
+					<li class="nav-item"><a class="nav-link" href="#resume">Resumen</a></li>
 					<li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
-					<li class="nav-item"><a class="nav-link" href="#resume">Resume</a></li>
 					<li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
 					<li class="nav-item"><a class="nav-link" href="#pricing">Pricing</a></li>
 					<li class="nav-item"><a class="nav-link" href="#blog">Blog</a></li>
