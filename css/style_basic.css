@@ -1,3 +1,31 @@
 .title_home{
   font-size:0.8em;
 }
+.banner-content p {
+  color: #f7f7f7;
+}
+
+.paragraph{
+  text-align: justify;
+}
+
+.about-content p {
+  color: white;
+  text-align: justify;
+}
+
+.about-content ul li b, .about-content ul li strong {
+ color: white;
+}
+
+.about-content ul li{
+  color: white;
+}
+
+p{
+  color: white;
+}
+
+h4{
+  color: white;
+}

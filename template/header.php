@@ -16,7 +16,7 @@
 			<div class="container">
 				<!-- Navbar Brand start -->
 				<a class="navbar-brand" href="#">
-					<h1><span>Jesica</span> Silva</h1>
+					<h1><span>Daniel</span> Márquez</h1>
 				</a>
 				<!-- Navbar Brand end -->
 				
