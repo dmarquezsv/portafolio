@@ -341,7 +341,7 @@
 			<div class="col-md-4 col-sm-6 col-xs-12 portfolio-box websites">
 				<div class="single-portfolio">
 					<a href="#popup-1" class="has-popup">
-						<img src="images/portfolio-3.jpg" class="Portfolio Image" alt="" />
+						<img src="img/proyectos/proyecto1.png" class="Portfolio Image" alt="" />
 						<div class="single-portfolio-overlay">
 							<h2>Armor Tech El Salvador</h2>
 							<h3>Sitio Web</h3>
@@ -351,7 +351,7 @@
 				<div id="popup-1" class="popup-box mfp-fade mfp-hide">
 					<div class="content">
 						<div class="image">
-							<img src="images/portfolio-3.jpg" alt="">
+							<img src="img/proyectos/proyecto1.png" alt="">
 						</div>
 						<div class="desc">
 							<h4>Armor Tech El Salvador</h4>
@@ -371,7 +371,7 @@
 			<div class="col-md-4 col-sm-6 col-xs-12 portfolio-box websites">
 				<div class="single-portfolio">
 					<a href="#popup-2" class="has-popup">
-						<img src="images/portfolio-3.jpg" class="Portfolio Image" alt="" />
+						<img src="img/proyectos/proyecto2.png" class="Portfolio Image" alt="" />
 						<div class="single-portfolio-overlay">
 							<h2>Bolsa de empleo</h2>
 							<h3>Aplicación Web</h3>
@@ -393,7 +393,7 @@
 								base de datos MYSQL, así mismo, conceptos base de POO como también “Envíos de correos
 								electrónicos” con phpmailer, la creación de pdf usando dompdf y peticiones con AJAX.
 							</p>
-							<a href="proyecto" target="" class="btn-view-project">Ver Proyecto</a>
+							<a href="proyecto" target="_blank" class="btn-view-project">Ver Proyecto</a>
 						</div>
 					</div>
 				</div>
@@ -403,7 +403,7 @@
 			<div class="col-md-4 col-sm-6 col-xs-12 portfolio-box websites">
 				<div class="single-portfolio">
 					<a href="#popup-3" class="has-popup">
-						<img src="images/portfolio-3.jpg" class="Portfolio Image" alt="" />
+						<img src="img/proyectos/proyecto3.png" class="Portfolio Image" alt="" />
 						<div class="single-portfolio-overlay">
 							<h2>Cirsal El Salvador</h2>
 							<h3>Sitio Web</h3>
@@ -413,7 +413,7 @@
 				<div id="popup-3" class="popup-box mfp-fade mfp-hide">
 					<div class="content">
 						<div class="image">
-							<img src="images/portfolio-3.jpg" alt="">
+							<img src="img/proyectos/proyecto3.png" alt="">
 						</div>
 						<div class="desc">
 							<h4>Cirsal El Salvador</h4>
@@ -422,36 +422,38 @@
 								El Sitio Web fue realizado usando una plantilla de Bootstrap 4, HTML 5 y CSS adaptándola a la necesidad del
 								cliente así mismo se hizo los cambios de colores cooperativos, imágenes y rediseño de estructura del sitio web.
 							</p>
-							<a href="https://cirsal.com/" target="" class="btn-view-project">Ver Proyecto</a>
+							<a href="https://cirsal.com/" target="_blank" class="btn-view-project">Ver Proyecto</a>
 						</div>
 					</div>
 				</div>
 			</div>
 
-					<!-- Single Portfolio starts -->
-					<div class="col-md-4 col-sm-6 col-xs-12 portfolio-box websites">
+				
+
+				<!-- Single Portfolio starts -->
+				<div class="col-md-4 col-sm-6 col-xs-12 portfolio-box websites">
 				<div class="single-portfolio">
-					<a href="#popup-3" class="has-popup">
-						<img src="images/portfolio-3.jpg" class="Portfolio Image" alt="" />
+					<a href="#popup-4" class="has-popup">
+						<img src="img/proyectos/proyecto4.png" class="Portfolio Image" alt="" />
 						<div class="single-portfolio-overlay">
-							<h2>Cirsal El Salvador</h2>
+							<h2>kreatiprom El Salvador</h2>
 							<h3>Sitio Web</h3>
 						</div>
 					</a>
 				</div>
-				<div id="popup-3" class="popup-box mfp-fade mfp-hide">
+				<div id="popup-4" class="popup-box mfp-fade mfp-hide">
 					<div class="content">
 						<div class="image">
-							<img src="images/portfolio-3.jpg" alt="">
+							<img src="img/proyectos/proyecto4.png" alt="">
 						</div>
 						<div class="desc">
-							<h4>Cirsal El Salvador</h4>
+							<h4>kreatiprom El Salvador</h4>
 							<h5><i class="fa fa-folder"></i> octubre 2020 - Sitio Web</h5>
 							<p class="paragraph">
 								El Sitio Web fue realizado usando una plantilla de Bootstrap 4, HTML 5 y CSS adaptándola a la necesidad del
 								cliente así mismo se hizo los cambios de colores cooperativos, imágenes y rediseño de estructura del sitio web.
 							</p>
-							<a href="https://cirsal.com/" target="" class="btn-view-project">Ver Proyecto</a>
+							<a href="https://www.kreatiprom.com/" target="_blank" class="btn-view-project">Ver Proyecto</a>
 						</div>
 					</div>
 				</div>
