@@ -369,7 +369,7 @@ header .navbar.sticky-header{
 }
 
 .section-title p{
-	color: #707070;
+	color: white;
 	
 }
 
@@ -661,7 +661,7 @@ header .navbar.sticky-header{
 /***************************************/
 
 .portfolio{
-	background: #151515;
+	background: url(../img/backgroud_home.gif);
 	padding: 100px 0;
 }
 

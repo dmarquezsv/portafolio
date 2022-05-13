@@ -16,17 +16,15 @@
 			<div class="container">
 				<!-- Navbar Brand start -->
 				<a class="navbar-brand" href="#">
-					<h1><span></span> </h1>
+					<h1>Daniel<span> Márquez</span> </h1>
 				</a>
 				<!-- Navbar Brand end -->
 				
 				<!-- Navigation Starts -->
 				<ul class="navbar-nav ml-auto" id="main-menu">
-					<li class="nav-item"><a class="nav-link active" href="#home">Inicio</a></li>
-					<li class="nav-item"><a class="nav-link" href="#about">Sobre mí</a></li>
-					<li class="nav-item"><a class="nav-link" href="#resume">Resumen</a></li>
-					<li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
-					<li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
+					<li class="nav-item"><a class="nav-link active" href="index">Inicio</a></li>
+					<li class="nav-item"><a class="nav-link" href="portafolio">Portfolio</a></li>
+					<li class="nav-item"><a class="nav-link" href="#services">Servicio</a></li>
 					<li class="nav-item"><a class="nav-link" href="#pricing">Pricing</a></li>
 					<li class="nav-item"><a class="nav-link" href="#blog">Blog</a></li>
 					<li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
